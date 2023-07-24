@@ -58,7 +58,7 @@ while True:
                 if climb =="caboose":
                     print("\nThe caboose is full of barrels of oil and one lawmen. When you drop in, he panics, fires his weapon, and blows you all sky high. Game over.\n")
                 elif climb =="third car":
-                    third = input("Y\nou land in a car of lawmen sitting on boxes of gold. They are caught off guard. What do you do?  (fire / threaten / surrender)  ")
+                    third = input("\nYou land in a car of lawmen sitting on boxes of gold. They are caught off guard. What do you do?  (fire / threaten / surrender)  ")
                     if third =="fire":
                         print("\nhe lawmen fall to the ground. The gold is yours. You disconnect the car and escape with your spoils. Congratulations, you win!\n")
                         break
